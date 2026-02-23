@@ -1,0 +1,15 @@
+{
+    "language": "EN",
+    "header": {
+        "welcome": "Bienvenido"
+    },  
+    "view": { 
+        "titles": {
+            "Name" : "Sistema de Titulación"
+        }
+    },
+    "messages": {
+    },
+    "errors": {
+    }
+}

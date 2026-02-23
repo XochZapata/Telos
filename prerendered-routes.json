@@ -1,0 +1,9 @@
+{
+  "routes": {
+    "/": {},
+    "/institute-panel": {},
+    "/list-candidate": {},
+    "/login": {},
+    "/monitor": {}
+  }
+}

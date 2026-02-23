@@ -1,0 +1,42 @@
+{
+    "language": "ES",
+    "header": {
+        "welcome": "Bienvenido"
+    },  
+    "view": { 
+        "titles": {
+            "Title_001" : "Sistema de Titulación",
+            "Title_002" : "Gestión de Alumnos"
+        },
+        "labels" : {
+            "Label_001" : "Usuario",
+            "Label_002" : "Contraseña",
+            "Label_003" : "Iniciar Sesión",
+            "Label_004" : "Registro",
+            "Label_005" : "Catálogos",
+            "Label_006" : "Monitoreo",
+            "Label_007" : "Folios",
+            "Label_008" : "Nombre",
+            "Label_009" : "Apellido Paterno", 
+            "Label_010" : "Apellido Materno",
+            "Label_011" : "Correo",
+            "Label_012" : "Teléfono",
+            "Label_013" : "Institución",
+            "Label_014" : "CURP",
+            "Label_015" : "Carrera",
+            "Label_016" : "Folio",
+            "Label_017" : "Estatus",
+            "Label_018" : "Acciones",
+            "Label_019" : "Alumno"
+
+        },
+        "actions": {
+            "Actions_001" : "+ Registrar Alumno"
+
+        }
+    },
+    "messages": {
+    },
+    "errors": {
+    }
+}
